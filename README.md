@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @ErikHashed
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C#, JavaScript, PHP (and HTML, CSS)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
-- Discord: free_gzuz
